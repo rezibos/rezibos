@@ -62,6 +62,8 @@
         <p align="center">
         <a href="https://github.com/rezibos/github-readme-stats">
             <img alt="Rezibos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+            &nbsp;
+            &nbsp;
         </a>
     <br/>
         &nbsp;
