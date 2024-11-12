@@ -49,13 +49,15 @@
 <details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <br/>
-  <div>
+    <div>
     <!-- Optional: Tambahkan section activity graph yang terpisah -->
-    <details>
-        <summary>📈 Activity Graph</summary>
-        <img alt="Rezibos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rezibos&theme=github-light"/>
-    </details>
-    <details> 
+<details>
+    <summary>📈 Activity Graph</summary>
+    <img alt="Rezibos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rezibos&theme=github-light"/>
+</details>
+
+<details>
+    <summary>🔍 Details</summary>    
     <br/>
         <p align="center">
         <a href="https://github.com/rezibos/github-readme-stats">
@@ -70,10 +72,11 @@
 </details>
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
+    <summary><b>⚡ Recent GitHub Activity</b></summary>
+    <br/>
+    <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
 </details>
+
 </details>
 
 
