@@ -6,28 +6,26 @@
 </div>
 
 
-## 🔭 Saat ini saya sedang mengerjakan
+### 🔭 Saat ini saya sedang mengerjakan
 - Website portfolio pribadi menggunakan React & Tailwind 
 - Aplikasi toko online dengan Flutter 
 - Mengembangkan kemampuan Struktur Data & Algoritma
 
-## 🌱 Sedang mendalami Laravel 
+### 🌱 Sedang mendalami Laravel 
 - CRUD dan RESTful API dengan Laravel 
 - Laravel + Vue.js/React untuk Frontend 
 - Database Migration & Seeding 
 - Laravel Testing 
 - Laravel Queues & Jobs
 
-## 💬 Open discussion about 
+### 💬 Open discussion about 
 - HTML, CSS, JavaScript 
 - PHP & Laravel 
 - MySQL 
 - Git & GitHub 
 - C++
 
-📫 How to reach me **fachrezibachri@gmail.com**
-
-## ⚡ Fun fact 
+### ⚡ Fun fact 
 - Stack Overflow adalah sahabat sejati 
 - Punya koleksi stiker laptop lebih banyak dari koleksi baju 
 - Lebih sering ngobrol sama ChatGPT daripada manusia
