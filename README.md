@@ -1,6 +1,5 @@
 <div align="center">
- <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.gif"
-      alt="snake" /></a>
+  <img src="./assets/p.gif" alt="snake"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Fachrezi Bachri</h1>
