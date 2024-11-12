@@ -59,16 +59,18 @@
 <details>
     <summary>🔍 Details</summary>    
     <br/>
-        <p align="center">
-        <a href="https://github.com/rezibos/github-readme-stats">
-            <img alt="Rezibos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-        </a>
+<p align="center">
+    <a href="https://github.com/rezibos/github-readme-stats">
+        <img alt="Rezibos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+    </a>
+</p>
 
+<!-- Cara 1: Menggunakan multiple <br/> -->
+<br/><br/>
 
-
-<br/>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezibos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rezibos" height="192px"/>
-<br/>
+</p>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
