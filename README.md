@@ -98,4 +98,4 @@
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=rezibos&label=GITHUB%20VIEWS&color=grey&style=for-the-badge" alt="rezibos" />
+<img align="right" src="https://komarev.com/ghpvc/?username=rezibos&label=GITHUB%20VIEWS&color=grey&style=for-the-badge" alt="rezibos" />
