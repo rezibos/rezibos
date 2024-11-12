@@ -15,16 +15,10 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center"> 🔭 Saat ini saya sedang mengerjakan </h1>
-<p align ="center">
-    Website portfolio pribadi menggunakan React & Tailwind
-</p>
-<p align="center">
-    Aplikasi toko online dengan Flutter    
-</p>
-<p align="center">
-    Mengembangkan kemampuan Struktur Data & Algoritma
-</p>
+## 🔭 Saat ini saya sedang mengerjakan
+- Website portfolio pribadi menggunakan React & Tailwind 
+- Aplikasi toko online dengan Flutter
+- Mengembangkan kemampuan Struktur Data & Algoritma
 
 ## 🌱 Sedang mendalami Laravel 
 - CRUD dan RESTful API dengan Laravel 
@@ -46,7 +40,6 @@ Stack Overflow adalah sahabat sejati
 Punya koleksi stiker laptop lebih banyak dari koleksi baju 
 
 Lebih sering ngobrol sama ChatGPT daripada manusia
-
 
 
 ## 🛠️ Bahasa dan Alat
