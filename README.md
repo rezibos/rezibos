@@ -27,7 +27,7 @@
 - Laravel Testing 
 - Laravel Queues & Jobs
 
-## ⚡ Fun fact 
+###### ⚡ Fun fact 
 - **Stack Overflow adalah sahabat sejati**
 - **Punya koleksi stiker laptop lebih banyak dari koleksi baju**
 - **Lebih sering ngobrol sama ChatGPT daripada manusia**
