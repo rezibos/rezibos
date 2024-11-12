@@ -79,14 +79,13 @@
 
 </details>
 
-## 📫 Connect with me
-<p align="left">
-<a href="https://twitter.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fachrezibachri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/xroxrezix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xroxrezix" height="30" width="40" /></a>
-<a href="https://fb.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fachrezibachri" height="30" width="40" /></a>
-<a href="https://instagram.com/xroxrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xroxrezi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xcodezrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xcodezrezi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/xroxrezix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xroxrezix" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/4bDyzhvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4bDyzhvc" height="30" width="40" /></a>
+## 🌐 Sosial Media
+<p align="center">
+<a href="https://twitter.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fachrezibachri" height="40" width="50" /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/xroxrezix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xroxrezix" height="40" width="50" /></a>&nbsp;&nbsp;
+<a href="https://fb.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fachrezibachri" height="40" width="50" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/xroxrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xroxrezi" height="40" width="50" /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/xcodezrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xcodezrezi" height="40" width="50" /></a>&nbsp;&nbsp;
+<a href="https://discord.gg/4bDyzhvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="50" /></a>
 </p>
 
