@@ -79,7 +79,7 @@
 
 </details>
 
-## 🌐 Sosial Media
+<h3 align="center"><🌐 Sosial Media/></h3>
 <p align="center">
 <a href="https://twitter.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fachrezibachri" height="40" width="50" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/xroxrezix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xroxrezix" height="40" width="50" /></a>&nbsp;&nbsp;
