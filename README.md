@@ -62,13 +62,11 @@
         <p align="center">
         <a href="https://github.com/rezibos/github-readme-stats">
             <img alt="Rezibos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
-            &nbsp;
-            &nbsp;
         </a>
-    <br/>
-        &nbsp;
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezibos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rezibos" height="192px"/>
-    <br/>
+
+<br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezibos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rezibos" height="192px"/>
+<br/>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
