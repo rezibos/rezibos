@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </p>
 
-<h3 align="center"> 🔭 Saat ini saya sedang mengerjakan </h3>
+<h1 align="center"> 🔭 Saat ini saya sedang mengerjakan </h1>
 <p align ="center">
     Website portfolio pribadi menggunakan React & Tailwind
 </p>
