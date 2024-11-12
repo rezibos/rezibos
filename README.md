@@ -17,9 +17,11 @@
 
 ## 🔭 Saat ini saya sedang mengerjakan
 <h5>
-- Website portfolio pribadi menggunakan React & Tailwind 
-- Aplikasi toko online dengan Flutter
-- Mengembangkan kemampuan Struktur Data & Algoritma
+    <p>
+        Website portfolio pribadi menggunakan React & Tailwind 
+        Aplikasi toko online dengan Flutter
+        Mengembangkan kemampuan Struktur Data & Algoritma
+    </p>
 </h5>
 
 ## 🌱 Sedang mendalami Laravel
