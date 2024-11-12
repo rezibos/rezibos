@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://vscode.dev/github/rezibos/rezibos/blob/main/asstes/p.gif" alt="snake"/>
+  <img src="./asstes/p.gif" alt="snake"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Fachrezi Bachri</h1>
