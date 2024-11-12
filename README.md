@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/p.gif" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/username/repository-name/main/assets/p.gif" alt="snake"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Fachrezi Bachri</h1>
