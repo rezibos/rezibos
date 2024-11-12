@@ -34,12 +34,13 @@
 - Git & GitHub 
 - C++
 
-## ⚡ Fun fact 
-**Stack Overflow adalah sahabat sejati**
-
-**Punya koleksi stiker laptop lebih banyak dari koleksi baju**
- 
-**Lebih sering ngobrol sama ChatGPT daripada manusia**
+## ⚡ Fun fact
+&nbsp;
+    **Stack Overflow adalah sahabat sejati**
+&nbsp;
+    **Punya koleksi stiker laptop lebih banyak dari koleksi baju**
+&nbsp;
+    **Lebih sering ngobrol sama ChatGPT daripada manusia**
 
 
 ## 🛠️ Bahasa dan Alat
