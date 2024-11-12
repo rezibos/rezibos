@@ -35,10 +35,8 @@
 - C++
 
 ## ⚡ Fun fact 
-Stack Overflow adalah sahabat sejati 
-
+**Stack Overflow adalah sahabat sejati** 
 Punya koleksi stiker laptop lebih banyak dari koleksi baju 
-
 Lebih sering ngobrol sama ChatGPT daripada manusia
 
 
