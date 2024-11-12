@@ -97,3 +97,5 @@
 <a href="https://discord.gg/4bDyzhvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="50" /></a>
 </p>
 
+
+![GitHub Views](https://img.shields.io/github/views/rezibos/rezibos?color=0E75B6&label=GITHUB%20VIEWS&style=for-the-badge)
