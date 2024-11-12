@@ -16,29 +16,21 @@
 </p>
 
 ## 🔭 Saat ini saya sedang mengerjakan
-<h5>
-    <p>
-        Website portfolio pribadi menggunakan React & Tailwind 
-        Aplikasi toko online dengan Flutter
-        Mengembangkan kemampuan Struktur Data & Algoritma
-    </p>
-</h5>
+- Website portfolio pribadi menggunakan React & Tailwind 
+- Aplikasi toko online dengan Flutter
+- Mengembangkan kemampuan Struktur Data & Algoritma
 
-## 🌱 Sedang mendalami Laravel
-<h5> 
+###### 🌱 Sedang mendalami Laravel 
 - CRUD dan RESTful API dengan Laravel 
 - Laravel + Vue.js/React untuk Frontend 
 - Database Migration & Seeding 
 - Laravel Testing 
 - Laravel Queues & Jobs
-</h5>
 
-## ⚡ Fun fact
-<h5> 
-- Stack Overflow adalah sahabat sejati
-- Punya koleksi stiker laptop lebih banyak dari koleksi baju
-- Lebih sering ngobrol sama ChatGPT daripada manusia**
-</h5>
+###### ⚡ Fun fact 
+- **Stack Overflow adalah sahabat sejati**
+- **Punya koleksi stiker laptop lebih banyak dari koleksi baju**
+- **Lebih sering ngobrol sama ChatGPT daripada manusia**
 
 
 ## 🛠️ Bahasa dan Alat
