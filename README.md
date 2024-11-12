@@ -1,31 +1,33 @@
 <h1 align="center">Hi 👋, I'm Fachrezi Bachri</h1>
 <h3 align="center"><Hello, World!/></h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hello!+I'm+Fachrezi+Bachri;Full+Stack+Developer;Web+Developer;Mobile+Developer)](https://git.io/typing-svg)
+
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
 
-### 🔭 Saat ini saya sedang mengerjakan
+## 🔭 Saat ini saya sedang mengerjakan
 - Website portfolio pribadi menggunakan React & Tailwind 
 - Aplikasi toko online dengan Flutter 
 - Mengembangkan kemampuan Struktur Data & Algoritma
 
-### 🌱 Sedang mendalami Laravel 
+## 🌱 Sedang mendalami Laravel 
 - CRUD dan RESTful API dengan Laravel 
 - Laravel + Vue.js/React untuk Frontend 
 - Database Migration & Seeding 
 - Laravel Testing 
 - Laravel Queues & Jobs
 
-### 💬 Open discussion about 
+## 💬 Open discussion about 
 - HTML, CSS, JavaScript 
 - PHP & Laravel 
 - MySQL 
 - Git & GitHub 
 - C++
 
-### ⚡ Fun fact 
+## ⚡ Fun fact 
 - Stack Overflow adalah sahabat sejati 
 - Punya koleksi stiker laptop lebih banyak dari koleksi baju 
 - Lebih sering ngobrol sama ChatGPT daripada manusia
