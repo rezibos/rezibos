@@ -49,7 +49,7 @@
 <details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <br/>
-  <div align="center">
+  <div>
     <!-- Optional: Tambahkan section activity graph yang terpisah -->
     <details>
         <summary>📈 Activity Graph</summary>
@@ -67,21 +67,11 @@
     <br/>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
-</details>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
-</details>
-  </div>
+    <details>
+        <summary><b>⚡ Recent GitHub Activity</b></summary>
+        <br/>
+        <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
+    </details>
 </details>
 
 
