@@ -5,7 +5,6 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezibos&label=Profile%20views&color=0e75b6&style=flat" alt="rezibos" /> </p>
 
 ## 🔭 Saat ini saya sedang mengerjakan
 - Website portfolio pribadi menggunakan React & Tailwind 
