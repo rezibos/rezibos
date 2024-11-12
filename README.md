@@ -73,6 +73,7 @@
         <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
     </details>
 </details>
+</details>
 
 
 ## 📫 How to reach me 
