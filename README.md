@@ -17,9 +17,11 @@
 
 <h3 align="center"> 🔭 Saat ini saya sedang mengerjakan </h3>
 <p align ="center">
-- Website portfolio pribadi menggunakan React & Tailwind 
-- Aplikasi toko online dengan Flutter
-- Mengembangkan kemampuan Struktur Data & Algoritma
+Website portfolio pribadi menggunakan React & Tailwind
+
+Aplikasi toko online dengan Flutter
+
+Mengembangkan kemampuan Struktur Data & Algoritma
 </p>
 
 ## 🌱 Sedang mendalami Laravel 
