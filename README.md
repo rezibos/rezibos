@@ -18,12 +18,12 @@
 <h3 align="center"> 🔭 Saat ini saya sedang mengerjakan </h3>
 <p align ="center">
     Website portfolio pribadi menggunakan React & Tailwind
+</p>
 <p align="center">
     Aplikasi toko online dengan Flutter    
 </p>
-<p>
+<p align="center">
     Mengembangkan kemampuan Struktur Data & Algoritma
-</p>
 </p>
 
 ## 🌱 Sedang mendalami Laravel 
