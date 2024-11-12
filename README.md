@@ -20,6 +20,7 @@
 - Website portfolio pribadi menggunakan React & Tailwind 
 - Aplikasi toko online dengan Flutter
 - Mengembangkan kemampuan Struktur Data & Algoritma
+</p>
 
 ## 🌱 Sedang mendalami Laravel 
 - CRUD dan RESTful API dengan Laravel 
