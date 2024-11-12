@@ -28,11 +28,15 @@
 - Laravel Queues & Jobs
 
 ## 💬 Open discussion about 
-- HTML, CSS, JavaScript 
-- PHP & Laravel 
+- **HTML, CSS, JavaScript** 
+- **PHP & Laravel 
 - MySQL 
 - Git & GitHub 
-- C++
+- C++**
+
+- **HTML** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="20"/>
+- **CSS** <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="20"/>
+- **JavaScript** <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20"/>
 
 ## ⚡ Fun fact 
 - **Stack Overflow adalah sahabat sejati**
