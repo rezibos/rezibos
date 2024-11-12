@@ -50,11 +50,37 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   <br/>
   <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezibos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rezibos" /></p>
+    <!-- Optional: Tambahkan section activity graph yang terpisah -->
+    <details>
+        <summary>📈 Activity Graph</summary>
+        <img alt="Rezibos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rezibos&theme=github-light"/>
+    </details>
+    <details> 
+    <br/>
+        <p align="center">
+        <a href="https://github.com/rezibos/github-readme-stats">
+            <img alt="Rezibos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
+        </a>
+    <br/>
+        &nbsp;
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezibos&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rezibos" height="192px"/>
+    <br/>
+        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
-    <p><img src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&locale=en&theme=tokyonight" alt="rezibos" /></p>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
+</details>
+</details>
 
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" alt="rezibos" /></p>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+  <img alt="Rezibos's Activity Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&theme=tokyonight" />
+</details>
   </div>
 </details>
 
@@ -64,8 +90,3 @@
 Gmail - fachrezibachri@gmail.com
 Instagram - Xroxrezi
 
-<!-- Optional: Tambahkan section activity graph yang terpisah -->
-<details>
-  <summary>📈 Activity Graph</summary>
-  <img alt="Rezibos's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rezibos&theme=github-light"/>
-</details>
