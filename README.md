@@ -25,7 +25,7 @@
 - Git & GitHub 
 - C++
 
-- 📫 How to reach me **fachrezibachri@gmail.com**
+📫 How to reach me **fachrezibachri@gmail.com**
 
 ## ⚡ Fun fact 
 - Stack Overflow adalah sahabat sejati 
@@ -51,3 +51,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezibos&show_icons=true&locale=en" alt="rezibos" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezibos&" alt="rezibos" /></p>
+
+
+## 📫 How to reach me 
+
+Gmail - fachrezibachri@gmail.com
+Instagram - Xroxrezi
