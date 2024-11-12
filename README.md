@@ -98,4 +98,4 @@
 </p>
 
 
-![GitHub Views](https://img.shields.io/github/views/rezibos/rezibos?color=0E75B6&label=GITHUB%20VIEWS&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=rezibos&label=GITHUB%20VIEWS&color=grey&style=for-the-badge" alt="rezibos" />
