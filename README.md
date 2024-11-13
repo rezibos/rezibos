@@ -11,9 +11,29 @@
 
 </h3>
 
+<!-- GITF DAN LINK -->
 <p align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </p>
+
+<div align="center" id="badges">
+  <a href="https://www.linkedin.com/in/fachrezi-bachri-95490a308/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/c/xcodezrezi">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://instagram.com/xroxrezi">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://discord.gg/4bDyzhvc">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/xroxrezix">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
+</div>
+
 
 ## 🔭 Saat ini saya sedang mengerjakan
 - Website portfolio pribadi menggunakan React & Tailwind 
@@ -79,16 +99,5 @@
    </details>
 
 </details>
-
-<h1 align="center">🌐 Sosial Media</h1>
-<p align="center">
-<a href="https://twitter.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fachrezibachri" height="40" width="50" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/xroxrezix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xroxrezix" height="40" width="50" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/fachrezibachri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fachrezibachri" height="40" width="50" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/xroxrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xroxrezi" height="40" width="50" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/c/xcodezrezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xcodezrezi" height="40" width="50" /></a>&nbsp;&nbsp;
-<a href="https://discord.gg/4bDyzhvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="40" width="50" /></a>
-</p>
-
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rezibos&label=GITHUB%20VIEWS&color=grey&style=for-the-badge" alt="rezibos" />
