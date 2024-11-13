@@ -40,17 +40,18 @@ Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih bany
 salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/ app.
 
 <details>
+    <summary><h1>🗂️ Details</h1></summary>
     <details>
-       <h4>🏅 Lisensi dan sertifikasi</h4>
+        <summary><h2>🏅 Lisensi dan sertifikasi</h2></summary>
     </details>
     <details>
-        <h4>🔨 Pekerjaan menjadi sukarelawan</h4>
+        <summary><h2>🔨 Pekerjaan menjadi sukarelawan</h2></summary>
     </details>
     <details>
-        <h4>🧩 Organisasi</h4>
+        <summary><h2>🧩 Organisasi</h2></summary>
     </details>
     <details>
-        <h4>🏛️ Pendidikan</h4>
+        <summary><h2>🏛️ Pendidikan</h2></summary>
     </details>
 </details>
 
