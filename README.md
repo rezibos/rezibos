@@ -34,13 +34,10 @@
   </a>
 </div>
 
-<p align="center">
 <h2 align="center">🚀 Tentang Saya</h2>
-    <p align="center">
-        Perkenalkan saya Fachrezi Bachri. Saya berasal dari Tanjungpinang Barat.
-        Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih banyak ruang lingkup teknologi masuk ke hidupan saya,
-        salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/ app.
-    </p>
+Perkenalkan saya Fachrezi Bachri. Saya berasal dari Tanjungpinang Barat.
+Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih banyak ruang lingkup teknologi masuk ke hidupan saya,
+salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/ app.
 
 <h4 align="center">🏅 Lisensi dan sertifikasi</h4>
 
@@ -49,8 +46,6 @@
 <h4 align="center">🧩 Organisasi</h4>
 
 <h4 align="center">🏛️ Pendidikan</h4>
-</p>
-
 
 ## 🔭 Saat ini saya sedang mengerjakan
 - Website portfolio pribadi menggunakan React & Tailwind 
