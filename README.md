@@ -42,13 +42,13 @@ salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri
 
 <h4 align="center">🏅 Lisensi dan sertifikasi</h4>
 
-<h3 align="center">🔨 Pekerjaan menjadi sukarelawan</h3>
+<h4 align="center">🔨 Pekerjaan menjadi sukarelawan</h4>
 
-<h3 align="center">🧑‍💻 Keahlian</h3>
+<h4 align="center">🧑‍💻 Keahlian</h4>
 
-<h3 align="center">🧩 Organisasi</h3>
+<h4 align="center">🧩 Organisasi</h4>
 
-<h3 align="center">🏛️ Pendidikan</h3>
+<h4 align="center">🏛️ Pendidikan</h4>
 </p>
 
 
