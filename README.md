@@ -35,10 +35,10 @@
 </div>
 
 <h2>🚀 Tentang Saya</h2>
+<p>
 Perkenalkan saya Fachrezi Bachri. Saya berasal dari Tanjungpinang Barat.
 Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih banyak ruang lingkup teknologi masuk ke hidupan saya,
-salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/ app.
-<details>
+salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/ app. <details>
     <summary><h5>🗂️ Selengkapnya</h5></summary>
     <details>
         <summary><h6>🏅 Lisensi dan sertifikasi</h6></summary>
@@ -53,6 +53,8 @@ salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri
         <summary><h6>🏛️ Pendidikan</h6></summary>
     </details>
 </details>
+</p>
+
 
 
 ## 🔭 Saat ini saya sedang mengerjakan
