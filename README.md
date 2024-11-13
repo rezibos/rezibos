@@ -40,7 +40,6 @@ Baik, saya akan membantu melengkapi bagian setelah "web/app" dengan menambahkan 
 Perkenalkan saya Fachrezi Bachri. Saya berasal dari Tanjungpinang Barat.
 Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih banyak ruang lingkup teknologi masuk ke hidupan saya,
 salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/app selengkapnya.<details>
-    <summary><h5>🗂️ Selengkapnya</h5></summary>
     <details>
         <summary><h6>🏅 Lisensi dan sertifikasi</h6></summary>
     </details>
