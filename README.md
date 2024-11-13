@@ -34,6 +34,8 @@
   </a>
 </div>
 
+<p align="center">
+
 ## 🚀 Tentang Saya
 Perkenalkan saya Fachrezi Bachri. Saya berasal dari Tanjungpinang Barat.
 Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih banyak ruang lingkup teknologi masuk ke hidupan saya,
@@ -48,6 +50,8 @@ salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri
 #### 🧩 Organisasi
 
 #### 🏛️ Pendidikan
+
+</p>
 
 
 ## 🔭 Saat ini saya sedang mengerjakan
