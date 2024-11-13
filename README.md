@@ -46,8 +46,6 @@
 
 <h4 align="center">🔨 Pekerjaan menjadi sukarelawan</h4>
 
-<h4 align="center">🧑‍💻 Keahlian</h4>
-
 <h4 align="center">🧩 Organisasi</h4>
 
 <h4 align="center">🏛️ Pendidikan</h4>
