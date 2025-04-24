@@ -30,29 +30,6 @@
   </a>
 </div>
 
-<h2>🚀 Tentang Saya</h2>
-Perkenalkan saya Fachrezi Bachri. Saya berasal dari Tanjungpinang Barat.
-Berkelulusan baik di SMK Negeri 4 dengan program keahlian RPL membawa lebih banyak ruang lingkup teknologi masuk ke hidupan saya,
-salah satunya berkesempatan magang di Data Center Dinas Perpustakaan Prov. Kepri dan mengerjakan beberapa latihan project web/app.
-
-### 🔭 Saat ini saya sedang mengerjakan
-- Website portfolio pribadi menggunakan React & Tailwind 
-- Aplikasi toko online dengan Flutter
-- Mengembangkan kemampuan Struktur Data & Algoritma
-
-### 🌱 Sedang mendalami Laravel 
-- CRUD dan RESTful API dengan Laravel 
-- Laravel + Vue.js/React untuk Frontend 
-- Database Migration & Seeding 
-- Laravel Testing 
-- Laravel Queues & Jobs
-
-### ⚡ Fun fact 
-- **Stack Overflow adalah sahabat sejati**
-- **Punya koleksi stiker laptop lebih banyak dari koleksi baju**
-- **Lebih sering ngobrol sama ChatGPT daripada manusia**
-
-
 ### 🛠️ Bahasa dan Alat
 | 👨‍💻 Programming Languages | 🚀 Frameworks | 🗄️ Databases | 🛠️ Software and Tools |
 |:---:|:---:|:---:|:---:|
