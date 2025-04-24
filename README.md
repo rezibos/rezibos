@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./asstes/p.gif" alt="snake"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Fachrezi Bachri</h1>
 <h3 align="center"><Hello, World!/></h3>
 
